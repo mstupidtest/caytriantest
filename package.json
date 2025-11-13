@@ -1,0 +1,1 @@
+"name": "gratitude-tree", "version": "1.0.0", "description": "Cây Tri Ân - 20/11", "scripts": { "dev": "netlify dev", "build": "echo 'No build needed'", "deploy": "netlify deploy --prod" }, "dependencies": { "pg": "^8.11.3" }, "devDependencies": { "netlify-cli": "^17.0.0" } }
